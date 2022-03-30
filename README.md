@@ -43,7 +43,7 @@ EX: node main.js
     LOGO logo1 5 8
     ```
   - **SAME** command compares two previously created logos and tells us whether they are the same or different.
-  ```bash
+    ```bash
     SAME [logo name] [logo name]
     ```
     EX:
