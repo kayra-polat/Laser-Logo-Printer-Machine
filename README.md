@@ -7,4 +7,7 @@
 - You can directly to use this link to download and install [Node.js](https://nodejs.org/en/)
 - You must download Node.js version 16.14.0 to evaluate the program.
 - You can find detail of Command-line options in Node.js website. -> [Command-line options](https://nodejs.org/dist/latest-v16.x/docs/api/cli.html)
-- After installing Node js, you can see the version of node.js on your computer by opening Command Prompt and typing [#f03c15](node -v)`#f03c15` to test whether it is installed.
+- After installing Node js, you can see the version of node.js on your computer by opening Command Prompt and typing the below command to test whether it is installed.
+```bash
+node -v
+```
