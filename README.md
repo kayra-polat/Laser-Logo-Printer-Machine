@@ -16,3 +16,17 @@ node -v
 node (program name)
 EX: node main.js
 ```
+
+## VS CODE
+- I developed this program in VS code. You can also download VS code from here -> [Visual Studio Code](https://code.visualstudio.com/download)
+
+## Explanation of the Program
+- There are four commands the program can take. LOGO, ENGRAVE, SAME, EXIT. Let me explain the functions of these commands in turn with examples.
+  1. **LOGO** command is a command that allows us to tell the program how to draw the shape we want to draw, using which main directions.
+    ```bash
+    LOGO [logo name] [Directions]
+    ```
+    EX: ```bash
+    LOGO logo1 DDURLDUU
+    ```bash
+    
