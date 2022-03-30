@@ -34,6 +34,20 @@ EX: node main.js
     U = Up
     R = Right
     L = Left
-  - **ENGRAVE** command is a command that allows us to engrave the given logo (shape) with given directions. Also, in this command, we must give the x and y coordinates to the program.   
-
-
+  - **ENGRAVE** command is a command that allows us to engrave the given logo (shape) with given directions. Also, in this command, we must give the x and y coordinates to the program. According to our program, the x coordinate tells us which row in our 11x11 grid to start from. The y coordinate tells from which column to start.
+    ```bash
+    ENGRAVE [logo name] [x coordinate] [y coordinate]
+    ```
+    EX:
+    ```bash
+    LOGO logo1 5 8
+    ```
+  - **SAME** command compares two previously created logos and tells us whether they are the same or different.
+  ```bash
+    SAME [logo name] [logo name]
+    ```
+    EX:
+    ```bash
+    SAME [logo1] [logo2]
+    ```
+  - **EXIT** command used for exit the program.
