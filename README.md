@@ -22,11 +22,12 @@ EX: node main.js
 
 ## Explanation of the Program
 - There are four commands the program can take. LOGO, ENGRAVE, SAME, EXIT. Let me explain the functions of these commands in turn with examples.
-  1. **LOGO** command is a command that allows us to tell the program how to draw the shape we want to draw, using which main directions.
+  - **LOGO** command is a command that allows us to tell the program how to draw the shape we want to draw, using which main directions.
     ```bash
     LOGO [logo name] [Directions]
     ```
-    EX: ```bash
+    EX: 
+    ```bash
     LOGO logo1 DDURLDUU
     ```bash
     
