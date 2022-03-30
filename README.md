@@ -29,5 +29,9 @@ EX: node main.js
     EX: 
     ```bash
     LOGO logo1 DDURLDUU
-    ```bash
-    
+    ```
+   D -> Down
+   U -> Up
+   R -> Right
+   L -> Left
+  -
