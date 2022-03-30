@@ -34,3 +34,6 @@ EX: node main.js
     U = Up
     R = Right
     L = Left
+  - **ENGRAVE** command is a command that allows us to engrave the given logo (shape) with given directions. Also, in this command, we must give the x and y coordinates to the program.   
+
+
