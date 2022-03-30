@@ -11,3 +11,8 @@
 ```bash
 node -v
 ```
+- You can run the program with this command in command prompt:
+```bash
+node (program name)
+EX: node main.js
+```
