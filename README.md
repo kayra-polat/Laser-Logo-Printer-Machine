@@ -30,8 +30,7 @@ EX: node main.js
     ```bash
     LOGO logo1 DDURLDUU
     ```
-   D = Down
-   U = Up
-   R = Right
-   L = Left
-  -
+    D = Down
+    U = Up
+    R = Right
+    L = Left
