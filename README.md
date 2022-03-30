@@ -40,7 +40,7 @@ EX: node main.js
     ```
     EX:
     ```bash
-    LOGO logo1 5 8
+    ENGRAVE logo1 5 8
     ```
   - **SAME** command compares two previously created logos and tells us whether they are the same or different.
     ```bash
